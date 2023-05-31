@@ -29,6 +29,17 @@ Interaction design for Apolonia would be focused on selection & manipulation.
 
 Dion’s Tasks are more related to arts. Optical illusions and surrealism ideas would be used for the task design of Dion.
 
+### 1.4 Scene Designs
+There will be four scenes in total. There of them will be imaginative landscapes traveled by Dion, and the remaining will be the workshop where Apolonia solves puzzles. 
+
+#### 1.4.1 Chinese ShanShui Scene
+![](https://i.imgur.com/RKWAKMu.jpg)
+
+#### 1.4.2 Nighthawks
+
+#### 1.4.3 Van Gogh's Bedroom
+![](https://i.imgur.com/s4B7EOm.jpg)
+
 ## 2. Selection & Manipulation Design
 
 Direct interactor & interactable, Ray interactor & interactable will be used for Apolonia to finish her tasks.
@@ -39,9 +50,9 @@ Rotating the cube by sliding on the table.
 
 Short-Cut Hint:
 
-"Playing with the Cube is like having a conversation with it. You have to listen to what it tells you. It speaks to you in its own language, and if you want to understand it, you have to learn that language." 
-
-– Erno Rubik, inventor of the Rubik's Cube
+> "Playing with the Cube is like having a conversation with it. You have to listen to what it tells you. It speaks to you in its own language, and if you want to understand it, you 
+> have to learn that language." 
+> – Erno Rubik, inventor of the Rubik's Cube
 
 ### 2.2 To be designed…
 
