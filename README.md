@@ -1,6 +1,6 @@
 # Uniduality
 
-> **Designed by Randal Dong & Junyi Wu**
+> **Designed by [Randal Dong](https://github.com/randaldong) & [Junyi Wu](https://github.com/pei-lu)**
 
 ## 1. General Gameplay Design
 
@@ -53,7 +53,10 @@ Dion will be travelling the the world of paintings, both western and eastern mas
 
 ### 4.1 Calp Hands
 
-Two players clap their hands in front of their headsets to activate the animation and enter the final scene, uncover the secret behind all these, and come to the culmination of their adventure.4.2 To be designed…
+Two players clap their hands in front of their headsets to activate the animation and enter the final scene, uncover the secret behind all these, and come to the culmination of their adventure.
+![](https://i.imgur.com/eti89K8.png)
+
+### 4.2 To be designed…
 
 ## 5. User Interface Design
 
