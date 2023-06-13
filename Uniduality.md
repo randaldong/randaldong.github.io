@@ -41,11 +41,9 @@ Harmony and reason in his being found.
 
 The chaos and passion, his soul's masterpiece.
 
+**Embark on the journey, let your essence unfurl,**
 
-
-Embark on the journey, let your essence unfurl,
-
-For both paths lead to unity's sacred pearl.
+**For both paths lead to unity's sacred pearl.**
 
 ![](https://i.imgur.com/cA2BQO4.png)
 
@@ -306,7 +304,8 @@ Apolonia needs to solve the sliding puzzles which will give hints on the objects
 
 
 2. [The Old Guitarist](https://en.wikipedia.org/wiki/The_Old_Guitarist)
-Apolonia finishes the slide puzzle of [The Old Guitarist](https://en.wikipedia.org/wiki/The_Old_Guitarist); at the same time, Dion will see a spotlight casting on a coin on the street. Dion picks it up. After Apolonia told Dion that the clue was “<span style="text-decoration:underline;">a man playing guitar in a blue mood</span>”, Dion should easily find the target.
+Apolonia finishes the slide puzzle of [The Old Guitarist](https://en.wikipedia.org/wiki/The_Old_Guitarist); at the same time, Dion will see a spotlight casting on a coin on the street. Dion picks it up. After Apolonia told Dion that the clue was “a man playing guitar in a blue mood”, Dion should easily find the target.
+
 ![](https://i.imgur.com/iHJTgb8.png)
 
 
@@ -341,7 +340,7 @@ In the meanwhile, Dion will search in the Van Gogh street, the following poems w
 
 Two players clap their hands in front of their headsets to activate the animation and enter the final scene, uncover the secret behind all these, and come to the culmination of their adventure.
 
-![image-20230613082427648](../AppData/Roaming/Typora/typora-user-images/image-20230613082427648.png)
+![](https://i.imgur.com/fiiPWVk.png)
 
 ## 4. Summary
 
