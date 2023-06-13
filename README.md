@@ -1,10 +1,10 @@
 # Uniduality
 
-> :sparkles: About the name: [https://www.thegloriousbothand.com/what-is-it2.html](https://www.thegloriousbothand.com/what-is-it2.html)
+> 🐱‍👓 About the name: [https://www.thegloriousbothand.com/what-is-it2.html](https://www.thegloriousbothand.com/what-is-it2.html)
 > 
-> :smiley_cat: Check the YouTube video below for a brief introduction to this game :D
+> 😺 Check the YouTube video below for a brief introduction to this game :D
 > 
-> :crystal_ball: https://youtu.be/tGiCSZwVjWk
+> 🐱‍💻 https://youtu.be/tGiCSZwVjWk
 
 ## 1. General Gameplay Design
 
