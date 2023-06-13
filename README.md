@@ -4,7 +4,7 @@
 > 
 > 😺 Check the YouTube video below for a brief introduction to this game :D
 > 
-> 🐱‍💻 https://youtu.be/tGiCSZwVjWk
+> 🐱‍💻 [https://youtu.be/tGiCSZwVjWk](https://youtu.be/tGiCSZwVjWk)
 
 ## 1. General Gameplay Design
 
